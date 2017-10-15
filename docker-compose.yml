@@ -1,4 +1,5 @@
 version: '2'
+
 services:
   sa_apigateway_ms:
     build: .
